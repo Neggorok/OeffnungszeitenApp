@@ -1,0 +1,2 @@
+# OeffnungszeitenApp
+Softwareprojekt II
